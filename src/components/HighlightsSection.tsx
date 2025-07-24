@@ -8,11 +8,11 @@ const HighlightsSection = () => {
           {/* 30+ Years Experience */}
           <div className="text-center space-y-4 animate-fade-in-scale">
             <div className="relative">
-              <div className="text-6xl md:text-7xl font-bold text-primary animate-float">
-                30+
-              </div>
-              <div className="absolute -top-2 -right-2">
-                <Award className="w-8 h-8 text-primary-glow" />
+              <div className="flex flex-col items-center">
+                <Award className="w-8 h-8 text-primary-glow mb-2" />
+                <div className="text-6xl md:text-7xl font-bold text-primary animate-float">
+                  30+
+                </div>
               </div>
             </div>
             <div className="space-y-2">
@@ -28,11 +28,11 @@ const HighlightsSection = () => {
           {/* Founded 1992 */}
           <div className="text-center space-y-4 animate-fade-in-scale" style={{ animationDelay: '0.2s' }}>
             <div className="relative">
-              <div className="text-6xl md:text-7xl font-bold text-primary animate-float" style={{ animationDelay: '2s' }}>
-                1992
-              </div>
-              <div className="absolute -top-2 -right-2">
-                <Heart className="w-8 h-8 text-primary-glow" />
+              <div className="flex flex-col items-center">
+                <Heart className="w-8 h-8 text-primary-glow mb-2" />
+                <div className="text-6xl md:text-7xl font-bold text-primary animate-float" style={{ animationDelay: '2s' }}>
+                  1992
+                </div>
               </div>
             </div>
             <div className="space-y-2">

@@ -4,16 +4,22 @@ const StorySection = () => {
       <div className="container mx-auto">
         <div className="max-w-4xl mx-auto text-center space-y-8">
           <h2 className="text-3xl md:text-5xl font-bold text-primary leading-tight animate-fade-in-up">
-            From Our Farm to Your Hands – Nature's Finest, Hand-Grown with Precision
+            From Our Farm to Your Hands
           </h2>
           
-          <div className="text-lg md:text-xl text-muted-foreground leading-relaxed space-y-6 animate-fade-in-scale">
-            <p>
-              Nestled in a lush agricultural village, we specialize in cultivating premium gypsophila with full, radiant petals and vibrant hues. Our goal? Deliver breathtaking blooms tailored to your vision — in the color, style, and quality you deserve.
-            </p>
-            <p>
-              With customizable color options and unmatched attention to detail, we're here to grow beauty that reflects your story.
-            </p>
+          <div className="text-center space-y-6 animate-fade-in-scale">
+            <h3 className="text-lg md:text-xl text-muted-foreground">
+              Nature's Finest, Hand-Grown with Precision
+            </h3>
+            
+            <div className="text-lg md:text-xl text-muted-foreground leading-relaxed space-y-6">
+              <p>
+                Nestled in a lush village, we grow premium gypsophila with vibrant hues and full petals.
+              </p>
+              <p>
+                With custom colors and precise care, we deliver blooms that reflect your unique vision
+              </p>
+            </div>
           </div>
         </div>
       </div>
