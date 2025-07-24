@@ -46,7 +46,7 @@ const Gallery = () => {
             Our Blooms
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Discover the vibrant beauty of our hand-grown gypsophila, each petal carefully cultivated with love and precision.
+            Discover the vibrant beauty of our hand-grown gypsophila, each petal carefully cultivated with love and precision
           </p>
         </div>
 

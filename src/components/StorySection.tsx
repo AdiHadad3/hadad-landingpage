@@ -12,12 +12,12 @@ const StorySection = () => {
               Nature's Finest, Hand-Grown with Precision
             </h3>
             
-            <div className="text-lg md:text-xl text-muted-foreground leading-relaxed space-y-6">
+            <div className="text-lg md:text-xl text-muted-foreground leading-relaxed space-y-3">
               <p>
                 Nestled in a lush village, we grow premium gypsophila with vibrant hues and full petals.
               </p>
               <p>
-                With custom colors and precise care, we deliver blooms that reflect your unique vision
+                With custom colors and precise care, we deliver blooms that reflect your unique vision.
               </p>
             </div>
           </div>
