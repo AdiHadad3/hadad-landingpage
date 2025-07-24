@@ -23,6 +23,10 @@ const Gallery = () => {
     {
       src: "/lovable-uploads/0f90b957-379e-47a2-8e5f-6ea99026b26e.png",
       alt: "Natural blue and pink gypsophila in field setting"
+    },
+    {
+      src: "/lovable-uploads/337e8943-3fa3-42be-99aa-0bec7ecf272d.png",
+      alt: "Pink gypsophila flowers in natural field setting"
     }
   ];
 

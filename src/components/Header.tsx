@@ -6,7 +6,7 @@ const Header = () => {
           <img 
             src="/lovable-uploads/cc44552c-290a-4ffe-9dab-444e00a07f18.png" 
             alt="Hadad - Every petals in perfect bloom"
-            className="h-16 md:h-20 w-auto object-contain"
+            className="h-20 md:h-24 w-auto object-contain"
           />
         </div>
       </div>
